@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Sahil!%20%F0%9F%91%8B&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Profile!&fontSize=40&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
 <h3 align="center">A passionate developer crafting beautiful experiences</h3>
@@ -35,7 +35,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23cssahil&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=23cssahil&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=23cssahil&theme=radical&hide_border=true" />
 </div>
 
