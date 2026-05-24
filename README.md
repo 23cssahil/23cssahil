@@ -27,7 +27,7 @@
 
 <p align="center">
   <!-- Customize the skill icons as per your tech stack -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,java&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,cpp,java&theme=light&perline=6" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=23cssahil&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+    <img src="https://github-profile-trophy.vercel.app/?username=23cssahil&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=3" />
   </a>
 </div>
 
