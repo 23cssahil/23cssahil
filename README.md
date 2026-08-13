@@ -35,14 +35,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sooty-eight.vercel.app/api?username=23cssahil&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=23cssahil&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=23cssahil&theme=radical&hide_border=true" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats-sooty-eight.vercel.app/api/top-langs/?username=23cssahil&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=23cssahil&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
