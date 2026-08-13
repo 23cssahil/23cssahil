@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=23cssahil&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=3" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=23cssahil&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=3" />
   </a>
 </div>
 
